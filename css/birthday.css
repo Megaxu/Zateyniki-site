@@ -1,0 +1,15 @@
+.banner {
+    background-image: url(../images/birthday-fon.jpg);
+}
+
+.stars-icon {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    right: 50%;
+    padding-bottom: 20px;
+}

@@ -1,0 +1,110 @@
+.banner {
+    background-image: url(../images/wedding-fon.jpg);
+}
+
+.box-quote {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.box-quote blockquote {
+    width: 600px;
+    border: 2px solid #6D5383;    
+    border-radius: 15px;
+    padding: 20px;
+    height: fit-content;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #6D5383;
+    margin: auto;
+}
+
+.box-quote address {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.box-steps {
+    background-color: #fff;
+    padding-top: 10px;
+    margin-bottom: 50px;
+}
+
+.steps {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.step {
+    margin: 0 auto;
+}
+
+.steps p {
+    width: 300px;
+    word-wrap: normal;
+    text-align: center;
+    color: #6D5383;
+    font-family: sans-serif;
+    font-size: 22px;
+}
+
+.table-of-wedding {
+    margin: 0 auto;
+}
+
+.stars-icon {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.column:first-child {
+    font-weight: 700;
+}
+
+table {
+    margin: 0 auto;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+td {
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #fff;
+    border: 2px solid #fff;
+    padding: 10px;
+}
+
+td:first-child {
+    font-weight: 700;
+    color: #fff;
+}
+
+tr:last-child>td {
+    color: #ffcc70;
+    font-weight: 700;
+}
+
+tr:last-child>td:first-child {
+    color: #fff;
+}
+
+.info-for-wedding p {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #fff;
+}
+
+.box-offsite-wedding img {
+    border-radius: 15px;
+    margin-bottom: 30px;
+}

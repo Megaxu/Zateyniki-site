@@ -1,0 +1,31 @@
+.box-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.box-info img {
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+.text-block {
+    width: 550px;
+    border: 2px solid #6D5383;    
+    border-radius: 15px;
+    padding: 20px;
+    height: fit-content;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #6D5383;
+    margin: auto auto;
+}
+
+@media screen and (max-width: 650px) {
+    .text-block {
+        margin-top: 20px;
+    }
+} 

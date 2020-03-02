@@ -1,0 +1,20 @@
+.banner {
+    background-image: url(../images/teambuilding-fon.jpg);
+}
+
+.package {
+    height: 600px;
+    font-size: 20px;
+}
+
+.stars-icon {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    right: 50%;
+    padding-bottom: 20px;
+}

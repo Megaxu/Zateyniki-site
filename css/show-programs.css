@@ -1,0 +1,31 @@
+.box-show-programs {
+    background-color: #6D5383;
+}
+
+.show-programs {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.show-program {
+    margin: 0 auto;
+    border-radius: 15px;
+    background-color: #fff;
+    margin-bottom: 30px;
+    width: 400px;
+    text-align: center;
+}
+
+.show-program img {
+    border-radius: 15px;
+    margin-top: 25px;
+}
+
+.show-program h3{
+    color: #6D5383;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+}
