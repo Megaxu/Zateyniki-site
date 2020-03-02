@@ -5,39 +5,6 @@
         <meta charset="UTF-8">
         <title>Главная Затейники-СПб</title>
         <meta http-epuiv="X-UA-Compatible" content="IE=edge">
-        <meta property="og:type" content="website">
-        <meta property="og:site_name" content="Затейники-СПб">
-        <meta property="og:title" content="Главная Затейники-СПб">
-        <meta property="og:description" content="Тестовая главная страница">
-        <meta property="og:url" content="http://a0406414.xsph.ru">
-        <meta property="og:locale" content="ru_RU">
-        <meta property="og:image" content="imagex.title-for-og-index.jpg">
-        <meta property="og:image:width" content="740">
-        <meta property="og:image:height" content="440">
-
-        <!-- Yandex.Metrika counter -->
-        <script type="text/javascript">
-            (function(m, e, t, r, i, k, a) {
-                m[i] = m[i] || function() {
-                    (m[i].a = m[i].a || []).push(arguments)
-                };
-                m[i].l = 1 * new Date();
-                k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
-            })
-            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-            ym(57696484, "init", {
-                clickmap: true,
-                trackLinks: true,
-                accurateTrackBounce: true,
-                webvisor: true
-            });
-        </script>
-        <noscript>
-            <div><img src="https://mc.yandex.ru/watch/57696484" style="position:absolute; left:-9999px;" alt="" /></div>
-        </noscript>
-        <!-- /Yandex.Metrika counter -->
-
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/main-page.css">
