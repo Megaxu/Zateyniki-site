@@ -1,6 +1,5 @@
 <div class="header">
     <div class="wrapper">
-        <button id="navbar-mobile" class="info-button nav-button-mobile"><img src="images/menu-mobile.png" alt=""></button>
         <div class="navigation">
             <ul class="nav">
                 <li>
@@ -30,7 +29,7 @@
                 <li class="submenu"><a href="seasonal">Сезонное</a>
                     <ul>
                         <li id="disabled"><a href="defenders-day">23 Февраля</a></li>
-                        <li><a href="womans-day">8 Марта</a></li>
+                        <li id="disabled"><a href="womans-day">8 Марта</a></li>
                         <li id="disabled"><a href="">Масленица</a></li>
                     </ul>
                 </li>

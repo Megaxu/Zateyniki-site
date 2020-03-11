@@ -32,7 +32,7 @@
     height: 16px;
     overflow: hidden;
     text-indent: -9999px;
-    background: url(https://zateyniki-spb.ru/d/radiobg.png) center bottom no-repeat;
+    background: url(/images/radio.png) center bottom no-repeat;
 }
 
 .sli-links .control-slide:hover {
@@ -53,7 +53,7 @@
     top: 0;
     overflow: hidden;
     text-indent: -999px;
-    background: url(https://zateyniki-spb.ru/d/arrowbg.png) left center no-repeat;
+    background: url(/images/arrow.png) left center no-repeat;
     opacity: 1;
     z-index: 3;
     outline: none !important;
@@ -65,7 +65,7 @@
 
 #nextbutton {
     right: 10px;
-    background: url(https://zateyniki-spb.ru/d/arrowbg.png) right center no-repeat;
+    background: url(/images/arrow.png) right center no-repeat;
 }
 
 #prewbutton:hover,

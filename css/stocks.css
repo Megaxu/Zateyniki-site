@@ -48,22 +48,26 @@
     margin: 20px;
 }
 
-@media screen and (max-device-width: 650px) {
+@media screen and (max-device-width: 480px) {
 
     .stock {
-
-        width: 500px;
-        height: 600px;
+        width: 80vw;
+        height: auto;
     }
-    
+
     .stock img {
-        width: 400px;
-        height: 400px;
-
+        width: 40vw;
+        height: auto;
+        margin: 20px;
+        padding: 0;
     }
-    
+
     .stock p {
-        font-size: 35px;
+        font-size: 50px;
+        margin: 20px;
     }
 
- }
+    h1 {
+        font-size: 75px;
+    }
+}   

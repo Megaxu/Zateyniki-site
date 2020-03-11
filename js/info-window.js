@@ -8,7 +8,7 @@ function jsoxModal(message, title = null) {
             })
         },
         append: $('<div>', {
-            style: 'display:inline-block;vertical-align: middle;position: relative;z-index: 99999;max-width: 500px;box-sizing: border-box;width: 90%;background: #6d5383; padding: 15px; font-size: 25px;font-family: sans-serif; color: #fff;-webkit-border-radius: 15px;-moz-border-radius: 15px;-o-border-radius: 15px;-ms-border-radius: 15px;border-radius: 15px;text-align: center;',
+            style: 'display:inline-block;vertical-align: middle;position: relative;z-index: 99999;max-width: 500px;box-sizing: border-box;width: 90%; background: #6d5383; padding: 15px; font-size: 25px;font-family: sans-serif; color: #fff;-webkit-border-radius: 15px;-moz-border-radius: 15px;-o-border-radius: 15px;-ms-border-radius: 15px;border-radius: 15px;text-align: center;',
             html: title ? '<h3>' + title + '</h3><p>' + message + '</p>' : '<p>' + message + '</p>',
             click: function () {
                 event.stopPropagation();
@@ -19,7 +19,7 @@ function jsoxModal(message, title = null) {
                     $('.jsoxModal').fadeOut(200, function () {
                         $(this).remove()
                     })
-                }
+                },
             }),
         }),
     });
@@ -28,12 +28,12 @@ function jsoxModal(message, title = null) {
 }
 $('#show-masha').on('click', function () {
     jsoxModal(
-        '<p>С любым ребенком Маша и её верный спутник Медведь – найдут общий язык. Искренность и отзывчивость отличает наших артистов от прочих мастеров жанра, мы действительно ценим интересы ребенка. Сценарии наших выступлений постоянно обновляются. Также быстро, как появляются новые идеи для очередного приключения у неутомимых персонажей любимого мультфильма.</p><p class="text-right"></p>',
+        '<p>С любым ребенком Маша и её верный спутник Медведь – найдут общий язык. Искренность и отзывчивость отличает наших артистов от прочих мастеров жанра, мы действительно ценим интересы ребенка. Сценарии наших выступлений постоянно обновляются. Также быстро, как появляются новые идеи для очередного приключения у неутомимых персонажей любимого мультфильма.</p>',
         'Маша и Медведь')
 })
 $('#show-fiksiki').on('click', function () {
     jsoxModal(
-        '<p>Симка и Нолик объявляют настоящий протест... Протест против скучных праздников Они собрали все самые интересные и познавательные игры, флэшмобы и викторины, чтобы доказать всему миру, что их праздник самый весёлый. Ребята перевоплотятся в морских существ, поохотятся на льва, станут настоящими хоккеистами и даже попробуют себя в роли профессиональных актёров. Конечно же наши яркие Фиксик и Нолик никогда не откажутся сфотографироваться со своими новыми друзьями, а иногда даже покривляться на камеру</p><p class="text-right"></p>',
+        '<p>Симка и Нолик объявляют настоящий протест... Протест против скучных праздников Они собрали все самые интересные и познавательные игры, флэшмобы и викторины, чтобы доказать всему миру, что их праздник самый весёлый. Ребята перевоплотятся в морских существ, поохотятся на льва, станут настоящими хоккеистами и даже попробуют себя в роли профессиональных актёров. Конечно же наши яркие Фиксик и Нолик никогда не откажутся сфотографироваться со своими новыми друзьями, а иногда даже покривляться на камеру</p>',
         'А кто такие Фиксики?')
 })
 $('#show-pirates').on('click', function () {
@@ -48,36 +48,36 @@ $('#show-minute').on('click', function () {
 })
 $('#show-bloger').on('click', function () {
     jsoxModal(
-        '<p>Описание появится позже, спасибо за ожидание</p><p class="text-right"></p>',
+        '<p>Описание появится позже, спасибо за ожидание</p>',
         'Блогерская вечеринка')
 })
 $('#show-spy').on('click', function () {
     jsoxModal(
-        '<p>Описание появится позже, спасибо за ожидание</p><p class="text-right"></p>',
+        '<p>Описание появится позже, спасибо за ожидание</p>',
         'Тайные агенты')
 })
 $('#show-science').on('click', function () {
     jsoxModal(
-        '<p>Описание появится позже, спасибо за ожидание</p><p class="text-right"></p>',
+        '<p>Описание появится позже, спасибо за ожидание</p>',
         'Научное шоу')
 })
 $('#show-100-in-1').on('click', function () {
     jsoxModal(
-        '<p>Описание появится позже, спасибо за ожидание</p><p class="text-right"></p>',
+        '<p>Описание появится позже, спасибо за ожидание</p>',
         '100 к 1')
 })
 $('#show-classic').on('click', function () {
     jsoxModal(
-        '<p>Описание появится позже, спасибо за ожидание</p><p class="text-right"></p>',
+        '<p>Описание появится позже, спасибо за ожидание</p>',
         'Классика')
 })
 $('#show-oscar').on('click', function () {
     jsoxModal(
-        '<p>Описание появится позже, спасибо за ожидание</p><p class="text-right"></p>',
+        '<p>Описание появится позже, спасибо за ожидание</p>',
         'Вручение премии Оскар')
 })
 $('#navbar-mobile').on('click', function () {
     jsoxModal(
-        '<ul><li><a href="index">Главная</a></li><li><a href="stocks">Акции</a></li><li><a href="services">Услуги</a></li><li><a href="seasonal">Сезонное</a></li><li><a href="contacts">Контакты</a></li></ul><p class="text-right"></p>',
+        '<ul><li><a href="index">Главная</a></li><li><a href="stocks">Акции</a></li><li><a href="services">Услуги</a></li><li><a href="seasonal">Сезонное</a></li><li><a href="contacts">Контакты</a></li></ul> ',
         'Затейники-СПб')
 })

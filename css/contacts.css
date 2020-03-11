@@ -59,6 +59,7 @@
 .contact-image h2>a {
     text-decoration: none;
     color: #ffcc70;
+    cursor: pointer;
 }
 
 .contact-image h2>a:hover {
@@ -75,31 +76,34 @@
     padding-bottom: 80px;
 }
 
-@media screen and (max-device-width: 650px) {
+@media screen and (max-device-width: 480px) {
 
     .contact {
-        width: 500px;
-        height: 600px;
+        width: 80vw;
+        height: auto;
     }
-    
-    .contact-image {
-        text-align: center;
-        margin: 0 auto;
-        margin-top: 20px;
-        margin-bottom: 20px;
-    }
-    
+
     .contact-image img {
-        width: 400px;
-        height: 400px;
-        border-radius: 15px;
-        margin: 0 auto;
+        width: 50vw;
+        height: auto;
+        margin: 20px;
+        padding: 0;
     }
-    
-    .contact-image h2 {
+
+    .contact h2 {
+        font-size: 75px;
+    }
+
+    h2 > a {
+        font-size: 75px;
+    }
+
+    h1 {
+        font-size: 75px;
+    }
+
+    p {
         font-size: 50px;
-        margin: 0;
-        margin-top: 35px;
-        text-align: center;
     }
-}
+
+}   

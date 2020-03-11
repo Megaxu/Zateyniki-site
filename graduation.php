@@ -5,6 +5,30 @@
         <meta charset="UTF-8">
         <title>Выпускной 2020</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
+        <!-- Yandex.Metrika counter -->
+        <script type="text/javascript">
+            (function(m, e, t, r, i, k, a) {
+                m[i] = m[i] || function() {
+                    (m[i].a = m[i].a || []).push(arguments)
+                };
+                m[i].l = 1 * new Date();
+                k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+            })
+            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+            ym(57696484, "init", {
+                clickmap: true,
+                trackLinks: true,
+                accurateTrackBounce: true,
+                webvisor: true
+            });
+        </script>
+        <noscript>
+            <div><img src="https://mc.yandex.ru/watch/57696484" style="position:absolute; left:-9999px;" alt="" /></div>
+        </noscript>
+        <!-- /Yandex.Metrika counter -->
+
         <link rel="stylesheet" href="/css/normalize.css">
         <link rel="stylesheet" href="/css/style.css">
         <link rel="stylesheet" href="/css/slider.css">
@@ -139,7 +163,7 @@
                     <div class="show-program">
                         <img src="images/logo-agent.jpg" width="350" height="350">
                         <h3>Тайные агенты</h3>
-                        <button id="show-spy" class="info-button">Подробнее</button>
+                        <a href="spy-show"><button class="info-button">Подробнее</button></a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-classik.jpg" width="350" height="350">
@@ -288,16 +312,16 @@
                 <div id="slider-wrap">
                     <div id="slider">
                         <div class="slide">
-                            <img src="images/foto_1.jpg" width="750" height="500">
+                            <img src="images/gr_1.jpg" width="750" height="500">
                         </div>
                         <div class="slide">
-                            <img src="images/foto_2.jpg" width="750" height="500">
+                            <img src="images/gr_2.jpg" width="750" height="500">
                         </div>
                         <div class="slide">
-                            <img src="images/foto_3.jpg" width="750" height="500">
+                            <img src="images/gr_3.jpg" width="750" height="500">
                         </div>
                         <div class="slide">
-                            <img src="images/foto_4.jpg" width="750" height="500">
+                            <img src="images/gr_4.jpg" width="750" height="500">
                         </div>
                     </div>
                 </div>

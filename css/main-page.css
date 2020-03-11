@@ -170,28 +170,90 @@
     margin: 0 auto;
 }
 
-@media screen and (max-width: 650px) {
-    .stock:last-child {
-        margin: 0 auto;
+@media screen and (max-device-width: 480px) {
+
+    .box-about-us img {
+        width: 80vw;
+        height: auto;
     }
 
-    .title-text h1 {
-        color: #2b2b2b;  
-        font-size: 40px;
-    }
-    
-    .title-text p {
-        color: #2b2b2b;
-        font-size: 20px;
-    }
-
-    .title-text {
+    .box-about-us blockquote{
+        width: 80vw;
+        padding: 0;
         margin-top: 20px;
     }
-}
 
-@media screen and (max-device-width: 480px) {
-    .box-about-us img {
-        margin-bottom: 20px;
+    .box-about-us h2 {
+        font-size: 50px;
+        text-align: center;
+        margin: 0;
+        margin-top: 20px;     
     }
+
+    .box-about-us p {
+        font-size: 35px;
+        text-align: center;
+        margin: 10px;
+    }
+
+    .box-stocks h2 {
+        font-size: 75px;
+    }
+
+    .stock {
+        width: 80vw;
+    }
+
+    .stock img {
+        width: 40vw;
+        height: auto;
+        margin: 20px;
+        padding: 0;
+    }
+    .stock h3 {
+        font-size: 50px;
+        margin: 20px;
+    }
+
+    #all-stocks {
+        margin: auto auto;
+        padding: auto;
+        width: 40vw;
+    }
+
+    #all-stocks a {
+        padding: 0;
+        margin: 0;
+    }
+
+    .box-services h2 {
+        font-size: 75px;
+    }
+
+    .service {
+        width: 80vw;
+    }
+
+    .service img {
+        width: 40vw;
+        height: auto;
+        margin: 20px;
+        padding: 0;
+    }
+    .service h3 {
+        font-size: 50px;
+        margin: 20px;
+        text-align: center;
+    }
+
+    #another-services {
+        margin: auto;
+        width: 40vw;
+    }
+
+    #another-services a {
+        padding: 0;
+        margin: 0;
+    }
+
 } 

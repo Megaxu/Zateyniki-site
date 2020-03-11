@@ -10,9 +10,6 @@
     <loc>https://www.zateyniki-spb.ru/contacts.php</loc>
   </url>
     <url>
-    <loc>https://www.zateyniki-spb.ru/defenders-day.php</loc>
-  </url>
-    <url>
     <loc>https://www.zateyniki-spb.ru/graduation.php</loc>
   </url>
     <url>
@@ -29,5 +26,8 @@
   </url>
     <url>
     <loc>https://www.zateyniki-spb.ru/wedding.php</loc>
+  </url>
+      <url>
+    <loc>https://www.zateyniki-spb.ru/spy-show.php</loc>
   </url>
 </urlset>

@@ -5,6 +5,30 @@
         <meta charset="UTF-8">
         <title>День Рождения</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
+        <!-- Yandex.Metrika counter -->
+        <script type="text/javascript">
+            (function(m, e, t, r, i, k, a) {
+                m[i] = m[i] || function() {
+                    (m[i].a = m[i].a || []).push(arguments)
+                };
+                m[i].l = 1 * new Date();
+                k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+            })
+            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+            ym(57696484, "init", {
+                clickmap: true,
+                trackLinks: true,
+                accurateTrackBounce: true,
+                webvisor: true
+            });
+        </script>
+        <noscript>
+            <div><img src="https://mc.yandex.ru/watch/57696484" style="position:absolute; left:-9999px;" alt="" /></div>
+        </noscript>
+        <!-- /Yandex.Metrika counter -->
+
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/slider.css">
@@ -131,7 +155,7 @@
                     <div class="show-program">
                         <img src="images/logo-agent.jpg" width="350" height="350">
                         <h3>Тайные агенты</h3>
-                        <button id="show-spy" class="info-button">Подробнее</button>
+                        <a href="spy-show"><button class="info-button">Подробнее</button></a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-sciense.png" width="350" height="350">

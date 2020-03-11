@@ -201,10 +201,6 @@ h1 {
     display: none;
 }
 
-.nav-button-mobile {
-    display: none;
-}
-
 @media screen and (max-device-width: 650px) {
 
     .box-footer p {
@@ -225,21 +221,5 @@ h1 {
 
     .submenu>ul>li {
         display: none;
-    }
-
-    .navigation {
-        display: none;
-    }
-
-    .nav-button-mobile {
-        display: block;
-    }
-
-    .nav-button-mobile  img{
-        z-index: 9999;
-        width: 10vw;
-        height: auto;
-        position: fixed;
-        top: 0;
     }
 }
