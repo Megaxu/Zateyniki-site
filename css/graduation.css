@@ -7,6 +7,10 @@
     font-size: 20px;
 }
 
+.box-info img {
+    margin-bottom: 20px;
+}
+
 .stars-icon {
     display: flex;
     justify-content: center;

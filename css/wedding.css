@@ -2,13 +2,18 @@
     background-image: url(../images/wedding-fon.jpg);
 }
 
+.box {
+    padding: 0;
+    padding-bottom: 50px;
+}
+
 .box-quote {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     position: relative;
     margin: 0 auto;
-    padding: 20px;
+    padding: 0px;
 }
 
 .box-quote blockquote {
@@ -17,15 +22,17 @@
     border-radius: 15px;
     padding: 20px;
     height: fit-content;
-    font-size: 20px;
+    font-size: 30px;
     font-family: sans-serif;
     color: #6D5383;
     margin: auto;
+    text-align: center;
 }
 
 .box-quote address {
     text-align: center;
     padding-top: 20px;
+    font-size: 25px;
 }
 
 .box-steps {

@@ -139,12 +139,12 @@
                     <div class="show-program">
                         <img src="images/logo-masha.jpg" width="350" height="350">
                         <h3>Маша и Медведь </h3>
-                        <button id="show-masha" class="info-button">Подробнее</button>
+                        <a href="masha-show"><button class="info-button">Подробнее</button></a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-fiksik.jpg" width="350" height="350">
                         <h3> А кто такие Фиксики?</h3>
-                        <button id="show-fiksiki" class="info-button">Подробнее</button>
+                        <a href="fixies-show"><button class="info-button">Подробнее</button></a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-pirats.jpg" width="350" height="350">
@@ -154,7 +154,7 @@
                     <div class="show-program">
                         <img src="images/logo-minuta.jpg" width="350" height="350">
                         <h3>Минута славы</h3>
-                        <button id="show-minute" class="info-button">Подробнее</button>
+                        <a href="minute-of-fame-show"><button class="info-button">Подробнее</button></a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-bloger.jpg" width="350" height="350">
@@ -174,7 +174,7 @@
                     <div class="show-program">
                         <img src="images/logo-sciense.png" width="350" height="350">
                         <h3>Научное шоу</h3>
-                        <button id="show-science" class="info-button">Подробнее</button>
+                        <a href="science-show"><button class="info-button">Подробнее</button></a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-sto.jpg" width="350" height="350">

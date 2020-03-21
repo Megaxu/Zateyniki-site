@@ -47,6 +47,7 @@
 .box-about-us img {
     border-radius: 15px;
     margin: auto;
+    margin-bottom: 20px;
 }
 
 .box-about-us blockquote {

@@ -37,60 +37,63 @@
 
         <?php include("blocks/navigation.php"); ?>
 
-        <div class="main">
-            <div class="banner">
-                <div class="wrapper">
-                    <div class="box">
-                        <div class="center">
-                            <h1>Тайные агенты</h1>
-                        </div>
-                        <div class="box-info">
-                            <div class="text-block">
-                                <h3>Возраст: от 10 до 14 лет.</h3>
-                                <p>Шпионы никогда не спят, так же как и их враги! Для шпиона самое главное - оставаться незаметным, именно поэтому наши агенты очень избирательны в подборе новобранцев. Сегодня наши агенты прибыли сюда с очень важной миссией — организовать школу юных шпионов!
-                                    Множество головоломок, надежная маскировка, бесшумное проникновение во вражеский штаб, снятие отпечатков пальцев, взлом сейфа с важными документами, поиск улик и многое другое!</p>
-                            </div>
-                        </div>
-
-                        <div class="center">
-                            <h2 class="h2-fiol">Что вас ждет?</h2>
-                        </div>
-                        <div class="box-info">
-                            <img src="images/best-spy.jpg" alt="spy-foto" width="518px" height="600px">
-                            <div class="text-block-wait-you">
-                                <p>1. Два ведущих;</p>
-                                <p>2. Программа на 1 или 2 часа;</p>
-                                <p>3. Памятный приз каждому участнику;</p>
-                                <p>4. Квест с элементами тимбилдинга;</p>
-                                <p>5. Невероятные фотографии в шпионском образе.</p>
-                            </div>
+        <div class="banner">
+            <div class="wrapper">
+                <div class="box">
+                    <div class="center">
+                        <h1>Тайные агенты</h1>
+                    </div>
+                    <div class="box-info">
+                        <div class="text-block">
+                            <h3>Возраст: от 10 до 14 лет.</h3>
+                            <p>Шпионы никогда не спят, так же как и их враги! Для шпиона самое главное - оставаться незаметным, именно поэтому наши агенты очень избирательны в подборе новобранцев. Сегодня наши агенты прибыли сюда с очень важной миссией — организовать школу юных шпионов!
+                                Множество головоломок, надежная маскировка, бесшумное проникновение во вражеский штаб, снятие отпечатков пальцев, взлом сейфа с важными документами, поиск улик и многое другое!</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="box-galery-spy">
+        <div class="main">
             <div class="wrapper">
-                <div class="center">
-                    <h2 class="h2-white">Галерея</h2>
+                <div class="box-wait-you">
+                    <div class="center">
+                        <h2 class="h2-fiol">Что вас ждет?</h2>
+                    </div>
+                    <div class="box-info">
+                        <img src="images/best-spy.jpg" alt="spy-foto" width="518px" height="600px">
+                        <div class="text-block-wait-you">
+                            <p>1. Два ведущих;</p>
+                            <p>2. Программа на 1 или 2 часа;</p>
+                            <p>3. Памятный приз каждому участнику;</p>
+                            <p>4. Квест с элементами тимбилдинга;</p>
+                            <p>5. Невероятные фотографии в шпионском образе.</p>
+                        </div>
+                    </div>
                 </div>
-                <div id="slider-wrap">
-                    <div id="slider">
-                        <div class="slide">
-                            <img src="images/spy_1.jpg" width="600" height="600">
+                <div class="box-galery-spy">
+                    <div class="wrapper">
+                        <div class="center">
+                            <h2 class="h2-fiol">Галерея</h2>
                         </div>
-                        <div class="slide">
-                            <img src="images/spy_2.jpg" width="600" height="600">
-                        </div>
-                        <div class="slide">
-                            <img src="images/spy_3.jpg" width="600" height="600">
-                        </div>
-                        <div class="slide">
-                            <img src="images/spy_4.jpg" width="600" height="600">
-                        </div>
-                        <div class="slide">
-                            <img src="images/spy_5.jpg" width="600" height="600">
+                        <div id="slider-wrap">
+                            <div id="slider">
+                                <div class="slide">
+                                    <img src="images/spy_1.jpg" width="600" height="600">
+                                </div>
+                                <div class="slide">
+                                    <img src="images/spy_2.jpg" width="600" height="600">
+                                </div>
+                                <div class="slide">
+                                    <img src="images/spy_3.jpg" width="600" height="600">
+                                </div>
+                                <div class="slide">
+                                    <img src="images/spy_4.jpg" width="600" height="600">
+                                </div>
+                                <div class="slide">
+                                    <img src="images/spy_5.jpg" width="600" height="600">
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

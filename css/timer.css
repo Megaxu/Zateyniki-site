@@ -1,0 +1,55 @@
+.timer{
+    margin-bottom: 20px;
+    font-family: sans-serif;
+}
+
+.countdown-title {
+    color: #fff;
+    font-weight: 100;
+    font-size: 40px;
+    margin: 0px 0px 20px ;
+    padding: 0;
+}
+
+.countdown {
+    font-family: sans-serif;
+    color: #fff;
+    display: inline-block;
+    font-weight: 700;
+    text-align: center;
+    font-size: 30px;
+}
+
+.countdown-number {
+    padding: 10px;
+    border-radius: 3px;
+    background: #AF9AC1;
+    display: inline-block;
+}
+
+.countdown-time {
+    padding: 15px;
+    border-radius: 3px;
+    background: #6d5383 ;
+    display: inline-block;
+}
+
+.countdown-text {
+    display: block;
+    padding-top: 5px;
+    font-size: 16px;
+}
+
+.deadline-message {
+    display: none;
+    font-size: 24px;
+    font-style: italic;
+}
+
+.visible {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}

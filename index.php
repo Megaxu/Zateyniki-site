@@ -59,7 +59,7 @@
                     </div>
                     <div class="box">
                         <div class="box-about-us">
-                            <img src="images/main-title-foto.png" alt="Фото" width="500" height="500">
+                            <img src="images/main-title-foto.png" alt="Фото" width="640" height="640">
                             <blockquote>
                                 <h2>О нас</h2>
                                 <p>Компания «Затейники-СПб» ведёт историю с 1992 года. За это время проведены десятки

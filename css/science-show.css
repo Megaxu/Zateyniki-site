@@ -1,12 +1,5 @@
-.main {
-    background-color: #fff;
-    padding-top: 20px;
-}
-
 .banner {
-    background-image: url(../images/spy-show-fon2.jpg);
-    background-position: center;
-    background-size: cover;
+    background-image: url(../images/science-show-fon.jpg);
 }
 
 .box-info {
@@ -18,7 +11,13 @@
     padding: 20px;
 }
 
+.box-info img {
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
 .text-block {
+    width: 1000px;
     border: 2px solid #6D5383;    
     border-radius: 15px;
     padding: 20px;
@@ -30,13 +29,8 @@
     text-align: center;
 }
 
-.box-wait-you img {
-    border-radius: 15px;
-    margin-bottom: 20px;
-}
-
 .text-block-wait-you {
-    width: 650px;
+    width: 550px;
     border: 2px solid #6D5383;    
     border-radius: 15px;
     padding: 20px;
@@ -45,28 +39,23 @@
     font-family: sans-serif;
     color: #6D5383;
     margin: auto auto;
+
 }
 
-.box-galery-spy {
-    background-color: #fff;
+.box-galery-sсience {
+    border-color: none;
     margin: 0;
     padding-top: 20px;
     padding-bottom: 10px;
 }
 
 #slider {
-    border-color: #fff;
     width: 600px;
     height: 600px;
 }
 
 #slider-wrap {
     width: 600px;
-}
-
-.footer {
-    background-color: #6d5383;
-    color: #fff;
 }
 
 @media screen and (max-width: 650px) {

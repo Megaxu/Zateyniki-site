@@ -4,7 +4,7 @@
 }
 
 .banner {
-    background-image: url(../images/spy-show-fon2.jpg);
+    background-image: url(../images/masha-show-fon.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -35,8 +35,9 @@
     margin-bottom: 20px;
 }
 
+
 .text-block-wait-you {
-    width: 650px;
+    width: 710px;
     border: 2px solid #6D5383;    
     border-radius: 15px;
     padding: 20px;
@@ -47,21 +48,20 @@
     margin: auto auto;
 }
 
-.box-galery-spy {
-    background-color: #fff;
+.box-galery-masha {
+    border-color: none;
     margin: 0;
     padding-top: 20px;
     padding-bottom: 10px;
 }
 
 #slider {
-    border-color: #fff;
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
 }
 
 #slider-wrap {
-    width: 600px;
+    width: 500px;
 }
 
 .footer {

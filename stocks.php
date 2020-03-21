@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <title>Акции</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        
+
         <!-- Yandex.Metrika counter -->
         <script type="text/javascript">
             (function(m, e, t, r, i, k, a) {
@@ -32,6 +32,7 @@
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/stocks.css">
+        <link rel="stylesheet" href="css/timer.css">
     </head>
 
     <body>
@@ -63,12 +64,36 @@
                             <div class="center">
                                 <img src="images/logo-stocks-candy.png" alt="foto">
                                 <p>До конца марта Candy Bar при заказе праздника под ключ в подарок</p>
+                                <div class="timer">
+                                    <h1 class="countdown-title">До конца акции</h1>
+                                    <div id="deadline-message" class="deadline-message">
+                                        Акция закончилась!
+                                    </div>
+                                    <div id="countdown" class="countdown">
+                                        <div class="countdown-number">
+                                            <span class="days countdown-time"></span>
+                                            <span class="countdown-text">Дней</span>
+                                        </div>
+                                        <div class="countdown-number">
+                                            <span class="hours countdown-time"></span>
+                                            <span class="countdown-text">Часов</span>
+                                        </div>
+                                        <div class="countdown-number">
+                                            <span class="minutes countdown-time"></span>
+                                            <span class="countdown-text">Минут</span>
+                                        </div>
+                                        <div class="countdown-number">
+                                            <span class="seconds countdown-time"></span>
+                                            <span class="countdown-text">Секунд</span>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
-                        <div class="stock">
+                        <div class="stock" id="disabled">
                             <div class="center">
-                                <img src="images/logo-2 in 1.png" alt="foto">
+                                <img src="images/logo-2-in-1.png" alt="foto">
                                 <p>Объедини 23 февраля и 8 марта в один праздник и получи скидку 50%</p>
                             </div>
                         </div>
@@ -83,6 +108,7 @@
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script src="js/info-window.js"></script>
+        <script src="js/timer.js"></script>
 
     </body>
 
