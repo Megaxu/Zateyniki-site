@@ -148,7 +148,7 @@
                     <div class="show-program">
                         <img src="images/logo-pirats.jpg" width="350" height="350">
                         <h3>Пиратская вечеринка</h3>
-                        <button id="show-pirates" class="info-button">Подробнее</button>
+                        <a href="pirates-show"><button class="info-button">Подробнее</button></a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-minuta.jpg" width="350" height="350">
