@@ -127,40 +127,40 @@
                     <h2 class="h2-white">Шоу-программы</h2>
                 </div>
                 <div class="show-programs">
-                    <div class="show-program">
+                <div class="show-program">
                         <img src="images/logo-masha.jpg" width="350" height="350">
                         <h3>Маша и Медведь </h3>
-                        <a href="masha-show"><button class="info-button">Подробнее</button></a>
+                        <a class="info-button" href="masha-show">Подробнее</a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-fiksik.jpg" width="350" height="350">
                         <h3> А кто такие Фиксики?</h3>
-                        <a href="fixies-show"><button class="info-button">Подробнее</button></a>
+                        <a class="info-button" href="fixies-show">Подробнее</a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-pirats.jpg" width="350" height="350">
                         <h3>Пиратская вечеринка</h3>
-                        <a href="pirates-show"><button class="info-button">Подробнее</button></a>
+                        <a class="info-button" href="pirates-show">Подробнее</a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-minuta.jpg" width="350" height="350">
                         <h3>Минута славы</h3>
-                        <a href="minute-of-fame-show"><button class="info-button">Подробнее</button></a>
+                        <a class="info-button" href="minute-of-fame-show">Подробнее</a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-bloger.jpg" width="350" height="350">
                         <h3>Блогерская вечеринка</h3>
-                        <button id="show-bloger" class="info-button">Подробнее</button>
+                        <a class="info-button" href="bloger-show">Подробнее</a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-agent.jpg" width="350" height="350">
                         <h3>Тайные агенты</h3>
-                        <a href="spy-show"><button class="info-button">Подробнее</button></a>
+                        <a class="info-button" href="spy-show">Подробнее</a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-sciense.png" width="350" height="350">
                         <h3>Научное шоу</h3>
-                        <a href="science-show"><button class="info-button">Подробнее</button></a>
+                        <a class="info-button" href="science-show">Подробнее</a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-sto.jpg" width="350" height="350">
