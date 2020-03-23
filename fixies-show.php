@@ -59,7 +59,7 @@
                     <div class="box-wait-you">
                         <h2 class="h2-fiol">Что вас ждет?</h2>
                         <div class="box-info">
-                            <img src="images/best-fixies.jpg" alt="fixies-foto" width="690px" height="560px">
+                            <img src="images/best-fixies.jpg" alt="fixies-foto" width="700px" height="560px">
                             <div class="text-block-wait-you">
                                 <p>1. Два ведущих;</p>
                                 <p>2. Программа на 1 или 2 часа;</p>
@@ -77,16 +77,16 @@
                             <div id="slider-wrap">
                                 <div id="slider">
                                     <div class="slide">
-                                        <img src="images/fx_1.jpg" width="600" height="600">
+                                        <img src="images/fx_1.jpg" width="690" height="690">
                                     </div>
                                     <div class="slide">
-                                        <img src="images/fx_2.jpg" width="600" height="600">
+                                        <img src="images/fx_2.jpg" width="690" height="690">
                                     </div>
                                     <div class="slide">
-                                        <img src="images/fx_3.jpg" width="600" height="600">
+                                        <img src="images/fx_3.jpg" width="690" height="690">
                                     </div>
                                     <div class="slide">
-                                        <img src="images/fx_4.jpg" width="600" height="600">
+                                        <img src="images/fx_4.jpg" width="690" height="690">
                                     </div>
                                 </div>
                             </div>

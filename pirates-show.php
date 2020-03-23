@@ -76,7 +76,7 @@
                             <div id="slider-wrap">
                                 <div id="slider">
                                     <div class="slide">
-                                        <img src="images/pir_1.jpg" width="680" height="680">
+                                        <img src="images/pir_1.jpg" width="690" height="690">
                                     </div>
                                 </div>
                             </div>

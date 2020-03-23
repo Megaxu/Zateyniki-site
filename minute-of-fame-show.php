@@ -58,7 +58,7 @@
                     <div class="box-wait-you">
                         <h2 class="h2-fiol">Что вас ждет?</h2>
                         <div class="box-info">
-                            <img src="images/best-minute-of-fame.jpg" alt="fixies-foto" width="690px" height="560px">
+                            <img src="images/best-minute-of-fame.jpg" alt="minute-foto" width="700px" height="570px">
                             <div class="text-block-wait-you">
                                 <p>1. Детский и взрослый сценарий на выбор;</p>
                                 <p>2. Памятные призы каждому участнику;</p>
@@ -76,16 +76,16 @@
                             <div id="slider-wrap">
                                 <div id="slider">
                                     <div class="slide">
-                                        <img src="images/min_1.jpg" width="600" height="600">
+                                        <img src="images/min_1.jpg" width="690" height="690">
                                     </div>
                                     <div class="slide">
-                                        <img src="images/min_2.jpg" width="600" height="600">
+                                        <img src="images/min_2.jpg" width="690" height="690">
                                     </div>
                                     <div class="slide">
-                                        <img src="images/min_3.jpg" width="600" height="600">
+                                        <img src="images/min_3.jpg" width="690" height="690">
                                     </div>
                                     <div class="slide">
-                                        <img src="images/min_4.jpg" width="600" height="600">
+                                        <img src="images/min_4.jpg" width="690" height="690">
                                     </div>
                                 </div>
                             </div>
@@ -93,11 +93,11 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <?php include("blocks/footer.php"); ?>
 
-            <?php include("blocks/footer.php"); ?>
-
-            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-            <script src="js/slider.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="js/slider.js"></script>
 
     </body>
 

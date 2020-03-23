@@ -37,7 +37,7 @@
 
 
 .text-block-wait-you {
-    width: 660px;
+    width: 656px;
     border: 2px solid #6D5383;    
     border-radius: 15px;
     padding: 20px;
@@ -56,12 +56,12 @@
 }
 
 #slider {
-    width: 680px;
-    height: 680px;
+    width: 690px;
+    height: 690px;
 }
 
 #slider-wrap {
-    width: 680px;
+    width: 700px;
 }
 
 .footer {

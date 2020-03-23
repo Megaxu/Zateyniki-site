@@ -61,7 +61,7 @@
                         <h2 class="h2-fiol">Что вас ждет?</h2>
                     </div>
                     <div class="box-info">
-                        <img src="images/best-spy.jpg" alt="spy-foto" width="518px" height="600px">
+                        <img src="images/best-spy.jpg" alt="spy-foto" width="700px" height="800px">
                         <div class="text-block-wait-you">
                             <p>1. Два ведущих;</p>
                             <p>2. Программа на 1 или 2 часа;</p>
@@ -79,19 +79,19 @@
                         <div id="slider-wrap">
                             <div id="slider">
                                 <div class="slide">
-                                    <img src="images/spy_1.jpg" width="600" height="600">
+                                    <img src="images/spy_1.jpg" width="690" height="690">
                                 </div>
                                 <div class="slide">
-                                    <img src="images/spy_2.jpg" width="600" height="600">
+                                    <img src="images/spy_2.jpg" width="690" height="690">
                                 </div>
                                 <div class="slide">
-                                    <img src="images/spy_3.jpg" width="600" height="600">
+                                    <img src="images/spy_3.jpg" width="690" height="690">
                                 </div>
                                 <div class="slide">
-                                    <img src="images/spy_4.jpg" width="600" height="600">
+                                    <img src="images/spy_4.jpg" width="690" height="690">
                                 </div>
                                 <div class="slide">
-                                    <img src="images/spy_5.jpg" width="600" height="600">
+                                    <img src="images/spy_5.jpg" width="690" height="690">
                                 </div>
                             </div>
                         </div>

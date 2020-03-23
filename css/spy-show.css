@@ -36,7 +36,7 @@
 }
 
 .text-block-wait-you {
-    width: 650px;
+    width: 656px;
     border: 2px solid #6D5383;    
     border-radius: 15px;
     padding: 20px;
@@ -55,13 +55,13 @@
 }
 
 #slider {
-    border-color: #fff;
-    width: 600px;
-    height: 600px;
+    border-color: #6d5383;
+    width: 690px;
+    height: 690px;
 }
 
 #slider-wrap {
-    width: 600px;
+    width: 700px;
 }
 
 .footer {

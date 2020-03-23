@@ -59,7 +59,7 @@
                     <div class="box-wait-you">
                         <h2 class="h2-fiol">Что вас ждет?</h2>
                         <div class="box-info">
-                            <img src="images/best-bloger.jpg" alt="fixies-foto" width="800px" height="600px">
+                            <img src="images/best-bloger.jpg" alt="fixies-foto" width="700px" height="465px">
                             <div class="text-block-wait-you">
                                 <p>1. Два ведущих;</p>
                                 <p>2. Конкурсы и челленджи;</p>
@@ -77,7 +77,7 @@
                             <div id="slider-wrap">
                                 <div id="slider">
                                     <div class="slide">
-                                        <img src="images/blog_1.jpg" width="800" height="800">
+                                        <img src="images/blog_1.jpg" width="690" height="690">
                                     </div>
                                 </div>
                             </div>

@@ -37,65 +37,66 @@
 
         <?php include("blocks/navigation.php"); ?>
 
-        <div class="main">
-            <div class="banner">
-                <div class="wrapper">
-                    <div class="box">
-                        <div class="center">
-                            <h1>Тайная лаборатория</h1>
-                        </div>
-                        <div class="box-info">
-                            <div class="text-block">
-                                <h3>Возраст: от 8 до 14 лет.</h3>
-                                <p>Наука - это просто!
-                                    Необычная смесь квеста и самого популярного шоу среди детей (и не только!). Под присмотром ученых ребята самостоятельно проведут яркие эксперименты, выполняя разнообразные задания и разгадывая множество загадок сумасшедшего профессора. Полное погружение в увлекательный мир науки и волшебства! А в конце праздника всех ждет памятный научный приз!</p>
-                            </div>
-                        </div>
-                        <div class="center">
-                            <h2 class="h2-fiol">Что вас ждет?</h2>
-                        </div>
-                        <div class="box-info">
-                            <img src="images/best-science.jpg" alt="science-foto" width="600px" height="400px" style="margin: auto 0">
-                            <div class="text-block-wait-you">
-                                <p>1. 2 ведущих;</p>
-                                <p>2. Программа на 1 или 2 часа;</p>
-                                <p>3. Профессиональные ведущие обеспечат полную безопасность для детей во время проведения опытов и демонстраций;</p>
-                                <p>4. Яркие фотографии в образе ученого;</p>
-                                <p>5. Памятные призы каждому участнику.</p>
-                            </div>
-                        </div>
-                        <div class="box-galery-sсience">
+        <div class="banner">
             <div class="wrapper">
-                <div class="center">
-                    <h2 class="h2-fiol">Галерея</h2>
-                </div>
-                <div id="slider-wrap">
-                    <div id="slider">
-                        <div class="slide">
-                            <img src="images/science_1.jpg" width="600" height="600">
-                        </div>
-                        <div class="slide">
-                            <img src="images/science_2.jpg" width="600" height="600">
-                        </div>
-                        <div class="slide">
-                            <img src="images/science_3.jpg" width="600" height="600">
-                        </div>
-                        <div class="slide">
-                            <img src="images/science_4.jpg" width="600" height="600">
-                        </div>
-                        <div class="slide">
-                            <img src="images/science_5.jpg" width="600" height="600">
-                        </div>
+                <div class="box">
+                    <div class="center">
+                        <h1>Тайная лаборатория</h1>
                     </div>
-                </div>
-            </div>
-        </div>
+                    <div class="box-info">
+                        <div class="text-block">
+                            <h3>Возраст: от 8 до 14 лет.</h3>
+                            <p>Наука - это просто! Необычная смесь квеста и самого популярного шоу среди детей (и не только!). Под присмотром ученых ребята самостоятельно проведут яркие эксперименты, выполняя разнообразные задания и разгадывая множество загадок сумасшедшего профессора. Полное погружение в увлекательный мир науки и волшебства! А в конце праздника всех ждет памятный научный приз!</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        
+        <div class="main">
+            <div class="wrapper">
+                <div class="center">
+                <div class="box-wait-you">
+                    <h2 class="h2-fiol">Что вас ждет?</h2>
+                    <div class="box-info">
+                        <img src="images/best-science.jpg" alt="science-foto" width="700px" height="465px">
+                        <div class="text-block-wait-you">
+                            <p>1. Два ведущих;</p>
+                            <p>2. Программа на 1 или 2 часа;</p>
+                            <p>3. Профессиональные ведущие обеспечат полную безопасность для детей во время проведения опытов и демонстраций;</p>
+                            <p>4. Яркие фотографии в образе ученого;</p>
+                            <p>5. Памятные призы каждому участнику.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box-galery-sсience">
+                    <div class="wrapper">
+                        <div class="center">
+                            <h2 class="h2-fiol">Галерея</h2>
+                        </div>
+                        <div id="slider-wrap">
+                            <div id="slider">
+                                <div class="slide">
+                                    <img src="images/science_1.jpg" width="690" height="690">
+                                </div>
+                                <div class="slide">
+                                    <img src="images/science_2.jpg" width="690" height="690">
+                                </div>
+                                <div class="slide">
+                                    <img src="images/science_3.jpg" width="690" height="690">
+                                </div>
+                                <div class="slide">
+                                    <img src="images/science_4.jpg" width="690" height="690">
+                                </div>
+                                <div class="slide">
+                                    <img src="images/science_5.jpg" width="690" height="690">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <?php include("blocks/footer.php"); ?>
 
@@ -103,5 +104,4 @@
         <script src="js/slider.js"></script>
 
     </body>
-
 </php>

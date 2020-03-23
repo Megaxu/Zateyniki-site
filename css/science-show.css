@@ -1,5 +1,12 @@
+.main {
+    background-color: #fff;
+    padding-top: 20px;
+}
+
 .banner {
     background-image: url(../images/science-show-fon.jpg);
+    background-position: center;
+    background-size: cover;
 }
 
 .box-info {
@@ -11,13 +18,7 @@
     padding: 20px;
 }
 
-.box-info img {
-    margin: 0 auto;
-    border-radius: 15px;
-}
-
 .text-block {
-    width: 1000px;
     border: 2px solid #6D5383;    
     border-radius: 15px;
     padding: 20px;
@@ -29,8 +30,13 @@
     text-align: center;
 }
 
+.box-wait-you img {
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
 .text-block-wait-you {
-    width: 550px;
+    width: 656px;
     border: 2px solid #6D5383;    
     border-radius: 15px;
     padding: 20px;
@@ -44,18 +50,23 @@
 
 .box-galery-sсience {
     border-color: none;
-    margin: 0;
+    margin: 0 auto;
     padding-top: 20px;
     padding-bottom: 10px;
 }
 
 #slider {
-    width: 600px;
-    height: 600px;
+    width: 690px;
+    height: 690px;
 }
 
 #slider-wrap {
-    width: 600px;
+    width: 700px;
+}
+
+.footer {
+    background-color: #6d5383;
+    color: #fff;
 }
 
 @media screen and (max-width: 650px) {
