@@ -168,7 +168,7 @@
                     <div class="show-program">
                         <img src="images/logo-classik.jpg" width="350" height="350">
                         <h3>Классика</h3>
-                        <button id="show-classic" class="info-button">Подробнее</button>
+                        <a class="info-button" href="classic-show">Подробнее</a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-sciense.png" width="350" height="350">
@@ -183,7 +183,7 @@
                     <div class="show-program">
                         <img src="images/logo-oskar.jpg" width="350" height="350">
                         <h3>Вручение премии Оскар</h3>
-                        <button id="show-oscar" class="info-button">Подробнее</button>
+                        <a class="info-button" href="oscar-show">Подробнее</a>
                     </div>
                 </div>
             </div>

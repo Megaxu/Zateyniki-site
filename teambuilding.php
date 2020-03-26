@@ -179,7 +179,7 @@
                     <div class="show-program">
                         <img src="images/logo-oskar.jpg" width="350" height="350">
                         <h3>Вручение премии Оскар</h3>
-                        <button id="show-oscar" class="info-button">Подробнее</button>
+                        <a class="info-button" href="oscar-show">Подробнее</a>
                     </div>
                 </div>
             </div>
