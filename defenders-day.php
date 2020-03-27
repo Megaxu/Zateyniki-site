@@ -118,7 +118,7 @@
                     <div class="show-program">
                         <img src="images/logo-disco-90.jpg" width="350" height="350">
                         <h3>Дискотека 90-х</h3>
-                        <button id="disco-90" class="info-button">Подробнее</button>
+                        <a class="info-button" href="disco-show">Подробнее</a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-gangster.jpg" width="350" height="350">
@@ -225,7 +225,6 @@
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script src="js/slider.js"></script>
-        <script src="js/info-window.js"></script>
 
     </body>
 

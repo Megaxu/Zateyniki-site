@@ -26,8 +26,3 @@ function jsoxModal(message, title = null) {
     $('body').append(jsoxModal);
     jsoxModal.fadeIn(200)
 }
-$('#disco-90').on('click', function () {
-    jsoxModal(
-        '<p>Описание появится позже, спасибо за ожидание</p>',
-        'Дискотека-90-х')
-})
