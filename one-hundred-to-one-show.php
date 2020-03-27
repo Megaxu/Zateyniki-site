@@ -58,7 +58,7 @@
                     <div class="box-wait-you">
                         <h2 class="h2-fiol">Что вас ждет?</h2>
                         <div class="box-info">
-                            <img src="images/best-oscar.jpg" alt="fixies-foto" width="700px" height="470px">
+                            <img src="images/best-hundred.png" alt="fixies-foto" width="700px" height="355px">
                             <div class="text-block-wait-you">
                                 <p>1. Специальное программное обеспечение и оборудование для игры;</p>
                                 <p>2. Необычный формат праздника;</p>
