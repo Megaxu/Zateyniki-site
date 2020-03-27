@@ -201,6 +201,7 @@
                             <img src="images/logo-goldberg.png" alt="Машина Голдберга" width="350" height="350">
                             <p>Машина Голдберга</p>
                             <p>От 1500 руб/чел</p>
+                            <a class="info-button" href="goldberg-show">Подробнее</a>
                         </div>
                     </div>
                 </div>

@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <title>Сезонное</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        
+
         <!-- Yandex.Metrika counter -->
         <script type="text/javascript">
             (function(m, e, t, r, i, k, a) {
@@ -57,8 +57,7 @@
                                     программу для именинника.</p>
                             </div>
                         </div>
-
-                        <div class="seasonal-service" id="disabled" >
+                        <div class="seasonal-service" id="disabled">
                             <div class="seasonal-service-image">
                                 <img src="images/logo-woman's-day.png" alt="foto">
                                 <a href="womans-day.php">Подробнее</a>
@@ -118,6 +117,16 @@
                                 <p>Уже не первый год наша команда занимается организацией спортивных и массовых мероприятий
                                     по всему городу и области. Масленицы, спортивные соревнования, ярмарки... У нас за
                                     плечами огромный опыт, гарантирующий отменный результат.</p>
+                            </div>
+                        </div>
+                        <div class="seasonal-service">
+                            <div class="seasonal-service-image">
+                                <img src="images/logo-goldberg.png" alt="foto">
+                                <a href="goldberg-show">Подробнее</a>
+                            </div>
+                            <div class="seasonal-service-text">
+                                <h2>Goldberg team</h2>
+                                <p>Что такое машина Голдберга?<br>Это устройство, которое выполняет очень простое действие чрезвычайно сложным образом — как правило, посредством длинной последовательности взаимодействий по «принципу домино». Финальное действие хоть и простое, но сработает только при безупречной работе всех предыдущих шагов. Отличный способ показать, как важен для успеха команды каждый ее участник!</p>
                             </div>
                         </div>
                     </div>

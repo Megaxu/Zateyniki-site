@@ -130,6 +130,11 @@
                         <h3>"100 к 1"</h3>
                         <a class="info-button" href="one-hundred-to-one-show">Подробнее</a>
                     </div>
+                    <div class="show-program">
+                        <img src="images/logo-goldberg-show.jpg" width="350" height="350">
+                        <h3>Goldberg team</h3>
+                        <a class="info-button" href="goldberg-show">Подробнее</a>
+                    </div>
                 </div>
             </div>
         </div>

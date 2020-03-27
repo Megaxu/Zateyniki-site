@@ -158,6 +158,11 @@
                         <a class="info-button" href="spy-show">Подробнее</a>
                     </div>
                     <div class="show-program">
+                        <img src="images/logo-goldberg-show.jpg" width="350" height="350">
+                        <h3>Goldberg team</h3>
+                        <a class="info-button" href="goldberg-show">Подробнее</a>
+                    </div>
+                    <div class="show-program">
                         <img src="images/logo-sciense.png" width="350" height="350">
                         <h3>Научное шоу</h3>
                         <a class="info-button" href="science-show">Подробнее</a>
