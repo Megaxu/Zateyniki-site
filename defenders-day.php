@@ -103,26 +103,32 @@
                     <div class="show-program">
                         <img src="images/logo-pirats.jpg" width="350" height="350">
                         <h3>Пиратская вечеринка</h3>
+                        <a class="info-button" href="pirates-show">Подробнее</a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-agent.jpg" width="350" height="350">
                         <h3>Тайные агенты</h3>
+                        <a class="info-button" href="spy-show">Подробнее</a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-sciense.png" width="350" height="350">
                         <h3>Научное шоу</h3>
+                        <a class="info-button" href="science-show">Подробнее</a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-disco-90.jpg" width="350" height="350">
                         <h3>Дискотека 90-х</h3>
+                        <button id="disco-90" class="info-button">Подробнее</button>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-gangster.jpg" width="350" height="350">
-                        <h3>Ганстеры</h3>
+                        <h3>Мафия</h3>
+                        <a class="info-button" href="mafia-show">Подробнее</a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-sto.jpg" width="350" height="350">
-                        <h3>"100 к 1" (скоро!)</h3>
+                        <h3>"100 к 1"</h3>
+                        <a class="info-button" href="one-hundred-to-one-show">Подробнее</a>
                     </div>
                 </div>
             </div>

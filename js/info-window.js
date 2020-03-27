@@ -26,18 +26,8 @@ function jsoxModal(message, title = null) {
     $('body').append(jsoxModal);
     jsoxModal.fadeIn(200)
 }
-$('#show-100-in-1').on('click', function () {
+$('#disco-90').on('click', function () {
     jsoxModal(
         '<p>Описание появится позже, спасибо за ожидание</p>',
-        '100 к 1')
-})
-$('#show-classic').on('click', function () {
-    jsoxModal(
-        '<p>Описание появится позже, спасибо за ожидание</p>',
-        'Классика')
-})
-$('#show-oscar').on('click', function () {
-    jsoxModal(
-        '<p>Описание появится позже, спасибо за ожидание</p>',
-        'Вручение премии Оскар')
+        'Дискотека-90-х')
 })

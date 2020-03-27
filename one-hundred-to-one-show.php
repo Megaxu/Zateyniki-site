@@ -3,12 +3,12 @@
 
     <head>
         <meta charset="UTF-8">
-        <title>Вручение премии Оскар</title>
+        <title>100 к 1</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/slider.css">
-        <link rel="stylesheet" href="css/oscar-show.css">
+        <link rel="stylesheet" href="css/one-hundred-to-one-show.css">
         <!-- Yandex.Metrika counter -->
         <script type="text/javascript">
             (function(m, e, t, r, i, k, a) {
@@ -41,11 +41,11 @@
             <div class="wrapper">
                 <div class="box">
                     <div class="center">
-                        <h1>Вручение премии Оскар</h1>
+                        <h1>100 к 1</h1>
                     </div>
                     <div class="box-info">
                         <div class="text-block">
-                            <p>Праздник в стиле премии Оскар – это праздник для настоящих звезд! Мы перенесемся в Лос-Анджелес, и сможем выбрать и оценить достойно лучшего из лучших. Гости смогут попробовать свои силы в роли актеров, режиссеров, сценаристов, рекламщиков и гримеров. Приглашаем Вас побывать в Голливуде и устроить незабываемый праздник в стиле вручения премии «Оскар». Такая программа будет по душе и детям, и взрослым, которые любят шумно и активно проводить время. Каждому из них будет действительно интересно попробовать себя в роли настоящей звезды!</p>
+                            <p>Смотрели телевизионную версию игры «100 к одному»? Интересно было бы принять участие?<br>Теперь у вас есть возможность перенести телевизионное шоу прямо на ваш праздник!<br>Здесь нет правильных или неправильных ответов, есть только популярные.<br>Попробуйте угадать, что думает большинство на тот или иной счет! Убедитесь, что вы мыслите нестандартно или, может быть, вы отлично предугадываете мнение целой массы людей и пора использовать этот дар. Это шуточная, прикольная викторина для взрослых послужит отличным развлечением для любого праздника.</p>
                         </div>
                     </div>
                 </div>
@@ -60,15 +60,15 @@
                         <div class="box-info">
                             <img src="images/best-oscar.jpg" alt="fixies-foto" width="700px" height="470px">
                             <div class="text-block-wait-you">
-                                <p>1. Два ведущих;</p>
-                                <p>2. Программа на 2 или 3 часа;</p>
-                                <p>3. Памятный приз каждому гостю;</p>
-                                <p>4. Фотосессия в стиле премии Оскар;</p>
-                                <p>5. Необычная и оригинальная программа.</p>
+                                <p>1. Специальное программное обеспечение и оборудование для игры;</p>
+                                <p>2. Необычный формат праздника;</p>
+                                <p>3. Программа на 1 или 2 часа;</p>
+                                <p>4. Работа в команде;</p>
+                                <p>5. Один ведущий.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="box-galery-oscar">
+                    <div class="box-galery-one-hundred-to-one-show">
                         <div class="wrapper">
                             <div class="center">
                                 <h2 class="h2-fiol">Галерея</h2>
@@ -76,10 +76,10 @@
                             <div id="slider-wrap">
                                 <div id="slider">
                                     <div class="slide">
-                                        <img src="images/oscar_1.jpg" width="690" height="500">
+                                        <img src="images/hundred_1.jpg" width="690" height="470">
                                     </div>
                                     <div class="slide">
-                                        <img src="images/oscar_2.jpg" width="690" height="500">
+                                        <img src="images/hundred_2.jpg" width="690" height="470">
                                     </div>
                                 </div>
                             </div>

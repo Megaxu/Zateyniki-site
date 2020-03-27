@@ -1,0 +1,76 @@
+.main {
+    background-color: #fff;
+    padding-top: 20px;
+}
+
+.banner {
+    background-image: url(../images/hundred-show-fon.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.box-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.text-block {
+    border: 2px solid #6D5383;    
+    border-radius: 15px;
+    padding: 20px;
+    height: fit-content;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #6D5383;
+    margin: auto auto;
+    text-align: center;
+}
+
+.box-wait-you img {
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+
+.text-block-wait-you {
+    width: 656px;
+    border: 2px solid #6D5383;    
+    border-radius: 15px;
+    padding: 20px;
+    height: fit-content;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #6D5383;
+    margin: auto auto;
+}
+
+.box-galery-one-hundred-to-one-show {
+    border-color: none;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#slider {
+    width: 690px;
+    height: 470px;
+}
+
+#slider-wrap {
+    width: 700px;
+}
+
+.footer {
+    background-color: #6d5383;
+    color: #fff;
+}
+
+@media screen and (max-width: 650px) {
+    .text-block {
+        margin-top: 20px;
+    }
+} 

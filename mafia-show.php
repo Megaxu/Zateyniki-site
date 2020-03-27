@@ -3,12 +3,12 @@
 
     <head>
         <meta charset="UTF-8">
-        <title>Вручение премии Оскар</title>
+        <title>Мафия</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/slider.css">
-        <link rel="stylesheet" href="css/oscar-show.css">
+        <link rel="stylesheet" href="css/mafia-show.css">
         <!-- Yandex.Metrika counter -->
         <script type="text/javascript">
             (function(m, e, t, r, i, k, a) {
@@ -41,11 +41,11 @@
             <div class="wrapper">
                 <div class="box">
                     <div class="center">
-                        <h1>Вручение премии Оскар</h1>
+                        <h1>Мафия</h1>
                     </div>
                     <div class="box-info">
                         <div class="text-block">
-                            <p>Праздник в стиле премии Оскар – это праздник для настоящих звезд! Мы перенесемся в Лос-Анджелес, и сможем выбрать и оценить достойно лучшего из лучших. Гости смогут попробовать свои силы в роли актеров, режиссеров, сценаристов, рекламщиков и гримеров. Приглашаем Вас побывать в Голливуде и устроить незабываемый праздник в стиле вручения премии «Оскар». Такая программа будет по душе и детям, и взрослым, которые любят шумно и активно проводить время. Каждому из них будет действительно интересно попробовать себя в роли настоящей звезды!</p>
+                            <p>Страница в работе, спасибо за ожидание</p>
                         </div>
                     </div>
                 </div>
@@ -58,17 +58,17 @@
                     <div class="box-wait-you">
                         <h2 class="h2-fiol">Что вас ждет?</h2>
                         <div class="box-info">
-                            <img src="images/best-oscar.jpg" alt="fixies-foto" width="700px" height="470px">
+                            <img src="images/best-mafia.jpg" alt="fixies-foto" width="700px" height="470px">
                             <div class="text-block-wait-you">
-                                <p>1. Два ведущих;</p>
-                                <p>2. Программа на 2 или 3 часа;</p>
-                                <p>3. Памятный приз каждому гостю;</p>
-                                <p>4. Фотосессия в стиле премии Оскар;</p>
-                                <p>5. Необычная и оригинальная программа.</p>
+                                <p>1. ;</p>
+                                <p>2. ;</p>
+                                <p>3. ;</p>
+                                <p>4. ;</p>
+                                <p>5. .</p>
                             </div>
                         </div>
                     </div>
-                    <div class="box-galery-oscar">
+                    <div class="box-galery-mafia">
                         <div class="wrapper">
                             <div class="center">
                                 <h2 class="h2-fiol">Галерея</h2>
@@ -76,10 +76,10 @@
                             <div id="slider-wrap">
                                 <div id="slider">
                                     <div class="slide">
-                                        <img src="images/oscar_1.jpg" width="690" height="500">
+                                        <img src="images/mafia_1.jpg" width="690" height="470">
                                     </div>
                                     <div class="slide">
-                                        <img src="images/oscar_2.jpg" width="690" height="500">
+                                        <img src="images/mafia_2.jpg" width="690" height="470">
                                     </div>
                                 </div>
                             </div>

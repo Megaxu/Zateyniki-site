@@ -173,13 +173,18 @@
                     </div>
                     <div class="show-program">
                         <img src="images/logo-sto.jpg" width="350" height="350">
-                        <h3>"100 к 1" (скоро!)</h3>
-                        <button id="show-100-in-1" class="info-button">Подробнее</button>
+                        <h3>"100 к 1"</h3>
+                        <a class="info-button" href="one-hundred-to-one-show">Подробнее</a>
                     </div>
                     <div class="show-program">
                         <img src="images/logo-oskar.jpg" width="350" height="350">
                         <h3>Вручение премии Оскар</h3>
                         <a class="info-button" href="oscar-show">Подробнее</a>
+                    </div>
+                    <div class="show-program">
+                        <img src="images/logo-gangster.jpg" width="350" height="350">
+                        <h3>Мафия</h3>
+                        <a class="info-button" href="mafia-show">Подробнее</a>
                     </div>
                 </div>
             </div>
