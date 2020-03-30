@@ -111,7 +111,7 @@
                         <div class="service" id="disabled">
                             <div class="service-image">
                                 <img src="images/logo-events.png" alt="foto">
-                                <a href="">Подробнее</a>
+                                <a href="mass-events">Подробнее</a>
                             </div>
                             <div class="service-text">
                                 <h2>Массовые мероприятия</h2>

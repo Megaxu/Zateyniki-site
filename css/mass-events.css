@@ -1,0 +1,29 @@
+.banner {
+    background-image: url(../images/mass-events-fon.jpg);
+}
+
+.box-info img {
+    margin-bottom: 20px;
+}
+
+.text-block {
+    width: 190px; 
+    height: fit-content;
+    font-family: sans-serif;
+    color: #6D5383;
+    margin: 0 auto;
+    border: 0px;
+    text-align: center;
+}
+
+.text-block h3 {
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.text-block p {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
