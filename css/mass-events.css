@@ -27,3 +27,40 @@
     padding: 0;
     font-size: 20px;
 }
+
+.box-reviews {
+    background-color: #6d5383;
+}
+
+.review {
+    background-color: #fff;
+}
+
+.review h3 {
+    color: #6d5383;
+}
+
+.review p {
+    color: #6d5383;
+}
+
+.box-gallery {
+    background-color: #fff;
+    padding: 10px;
+}
+
+.footer {
+    background-color: #6d5383;
+    color: #fff;
+}
+
+#slider-wrap {
+    width: 880px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+#slider {
+    width: 870px;
+    height: 620px;
+}

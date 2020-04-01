@@ -20,7 +20,7 @@
                         <li><a href="wedding">Свадьба</a></li>
                         <li><a href="teambuilding">Тимбилдинг</a></li>
                         <li id="disabled"><a href="">Корпоратив</a></li>
-                        <li id="disabled"><a href="mass-events">Массовые мероприятия</a></li>
+                        <li><a href="mass-events">Массовые мероприятия</a></li>
                     </ul>
                 </li>
                 <li>

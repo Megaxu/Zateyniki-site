@@ -108,7 +108,7 @@
                                     в день самого корпоративного праздника.</p>
                             </div>
                         </div>
-                        <div class="service" id="disabled">
+                        <div class="service">
                             <div class="service-image">
                                 <img src="images/logo-events.png" alt="foto">
                                 <a href="mass-events">Подробнее</a>
