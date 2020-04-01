@@ -53,3 +53,7 @@
 .hidden {
     display: none;
 }
+
+#deadline-message p {
+    color: #ffcc70;
+}

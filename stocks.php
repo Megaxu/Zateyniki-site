@@ -67,7 +67,7 @@
                                 <div class="timer">
                                     <h1 class="countdown-title">До конца акции</h1>
                                     <div id="deadline-message" class="deadline-message">
-                                        Акция закончилась!
+                                        <p>Акция завершена</p>
                                     </div>
                                     <div id="countdown" class="countdown">
                                         <div class="countdown-number">

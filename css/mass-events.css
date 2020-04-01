@@ -38,10 +38,12 @@
 
 .review h3 {
     color: #6d5383;
+    font-weight: 700;
 }
 
 .review p {
     color: #6d5383;
+    font-weight: 500;
 }
 
 .box-gallery {

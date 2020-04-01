@@ -93,7 +93,7 @@
                                     <img src="images/logo-stocks-repost.png" alt="">
                                     <h3>Скидка на следующий праздник за отзыв в соцсети</h3>
                                 </div>
-                                <div class="stock">
+                                <div class="stock" id="disabled">
                                     <img src="images/logo-stocks-candy.png" alt="">
                                     <h3>До конца марта Candy Bar при заказе праздника под ключ в подарок</h3>
                                 </div>
