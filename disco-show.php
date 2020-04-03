@@ -5,6 +5,10 @@
         <meta charset="UTF-8">
         <title>Дискотека 90-х</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta property="og:title" content="Дискотека 90-х">
+        <meta property="og:site_name" content="Затейники-СПБ оргнанизация праздников в СПБ">
+        <meta property="og:url" content="disco-show">
+        <meta property="og:image" content="images/disco-show-preview.png">
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/slider.css">

@@ -5,6 +5,10 @@
         <meta charset="UTF-8">
         <title>8 Марта</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta property="og:title" content="8 Марта">
+        <meta property="og:site_name" content="Затейники-СПБ оргнанизация праздников в СПБ">
+        <meta property="og:url" content="womans-day">
+        <meta property="og:image" content="images/womans-day-fon.jpg">
 
         <!-- Yandex.Metrika counter -->
         <script type="text/javascript">

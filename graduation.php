@@ -3,8 +3,12 @@
 
     <head>
         <meta charset="UTF-8">
-        <title>Выпускной 2020</title>
+        <title>Выпускной</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta property="og:title" content="Выпускной">
+        <meta property="og:site_name" content="Затейники-СПБ оргнанизация праздников в СПБ">
+        <meta property="og:url" content="graduation">
+        <meta property="og:image" content="images/graduation-preview.jpg">
         
         <!-- Yandex.Metrika counter -->
         <script type="text/javascript">

@@ -5,6 +5,10 @@
         <meta charset="UTF-8">
         <title>Минута славы!</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta property="og:title" content="Минута славы!">
+        <meta property="og:site_name" content="Затейники-СПБ оргнанизация праздников в СПБ">
+        <meta property="og:url" content="minute-of-fame-show">
+        <meta property="og:image" content="images/minute-of-fame-show-preview.jpg">
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/slider.css">

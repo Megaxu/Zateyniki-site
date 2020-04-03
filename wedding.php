@@ -5,6 +5,10 @@
         <meta charset="UTF-8">
         <title>Свадьба</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta property="og:title" content="Свадьба">
+        <meta property="og:site_name" content="Затейники-СПБ оргнанизация праздников в СПБ">
+        <meta property="og:url" content="wedding">
+        <meta property="og:image" content="images/wedding-fon.jpg">
         
         <!-- Yandex.Metrika counter -->
         <script type="text/javascript">

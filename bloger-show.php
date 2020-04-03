@@ -5,6 +5,10 @@
         <meta charset="UTF-8">
         <title>Блогерская вечеринка</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta property="og:title" content="Блогерская вечеринка">
+        <meta property="og:site_name" content="Затейники-СПБ оргнанизация праздников в СПБ">
+        <meta property="og:url" content="bloger-show">
+        <meta property="og:image" content="images/bloger-show-fon.jpg">
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/slider.css">
@@ -69,7 +73,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="box-galery-pirates">
+                    <div class="box-galery-bloger">
                         <div class="wrapper">
                             <div class="center">
                                 <h2 class="h2-fiol">Галерея</h2>

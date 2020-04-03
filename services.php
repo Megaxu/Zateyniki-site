@@ -5,6 +5,10 @@
         <meta charset="UTF-8">
         <title>Услуги</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta property="og:title" content="Услуги">
+        <meta property="og:site_name" content="Затейники-СПБ оргнанизация праздников в СПБ">
+        <meta property="og:url" content="services">
+        <meta property="og:image" content="images/services-preview.jpg">
 
         <!-- Yandex.Metrika counter -->
         <script type="text/javascript">

@@ -5,6 +5,10 @@
         <meta charset="UTF-8">
         <title>Мафия</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta property="og:title" content="Мафия">
+        <meta property="og:site_name" content="Затейники-СПБ оргнанизация праздников в СПБ">
+        <meta property="og:url" content="mafia-show">
+        <meta property="og:image" content="images/mafia-show-preview.jpg">
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/slider.css">

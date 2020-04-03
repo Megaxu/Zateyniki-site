@@ -5,6 +5,10 @@
         <meta charset="UTF-8">
         <title>Тайные агенты</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta property="og:title" content="Тайные агенты">
+        <meta property="og:site_name" content="Затейники-СПБ оргнанизация праздников в СПБ">
+        <meta property="og:url" content="spy-show">
+        <meta property="og:image" content="images/spy-show-fon.jpg">
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/slider.css">

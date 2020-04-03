@@ -5,6 +5,10 @@
         <meta charset="UTF-8">
         <title>День Рождения</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta property="og:title" content="День Рождения">
+        <meta property="og:site_name" content="Затейники-СПБ оргнанизация праздников в СПБ">
+        <meta property="og:url" content="birthday">
+        <meta property="og:image" content="images/birthday-fon.jpg">
         
         <!-- Yandex.Metrika counter -->
         <script type="text/javascript">

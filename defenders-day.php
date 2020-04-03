@@ -5,6 +5,10 @@
         <meta charset="UTF-8">
         <title>23 Февраля</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta property="og:title" content="23 Февраля">
+        <meta property="og:site_name" content="Затейники-СПБ оргнанизация праздников в СПБ">
+        <meta property="og:url" content="defenders-day">
+        <meta property="og:image" content="images/defenders-day-fon.jpg">
         
         <!-- Yandex.Metrika counter -->
         <script type="text/javascript">
