@@ -4,6 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Главная Затейники-СПб</title>
+        <meta name="yandex-verification" content="38a181f4b23f14f3" />
         <meta http-epuiv="X-UA-Compatible" content="IE=edge">
         <meta property="og:title" content="Главная Затейники-СПб">
         <meta property="og:site_name" content="Затейники-СПБ оргнанизация праздников в СПБ">

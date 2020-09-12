@@ -1,91 +1,91 @@
-.services {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    position: relative;
-    margin-top: 30px;
-}
-
-.services:first-child {
-    margin-top: 0;
-}
-
-.services:last-child {
-    padding-bottom: 30px;
-}
-
-.service {
-    background-color: #6D5383;
-    width: 620px;
-    height: 400px;
-    display: flex;
-    margin: 0 auto;
-    margin-bottom: 30px;
-    border-radius: 15px;
-}
-
-.service-image {
-    width: 290px;
-    text-align: center;
-}
-
-.service-image img {
-    width: 250px;
-    height: 250px;
-    margin-top: 20px;
-    margin-left: 20px;
-    border-radius: 15px;
-    margin-right: 20px;
-    margin-bottom: 40px;
-}
-
-.service-image>a {
-    text-decoration: none;
-    color: #ffcc70;
-    font-family: sans-serif;
-    font-size: 25px;
-    font-weight: 700;
-    border: 2px solid #ffcc70;
-    text-align: center;
-    border-radius: 5px;
-    padding: 10px;
-}
-
-.service-image>a:hover {
-    color: #fff;
-    border-color: #fff;
-}
-
-.service-text {
-    margin: 0;
-    padding: 0;
-}
-
-.service-text h2 {
-    color: #fff;
-    font-family: sans-serif;
-    font-weight: 700;
-    font-size: 40px;
-    margin: 0;
-    margin-top: 35px;
-
-}
-
-.service-text p {
-    color: #fff;
-    font-family: sans-serif;
-    font-size: 18px;
-    text-align: left;
-    margin-right: 20px;
-    margin-top: 10px;
-}
-
-.main {
-    background-image: url(../images/services-fon.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    margin: 0;
-    padding-top: 50px;
-    padding-bottom: 80px;
+.services {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: relative;
+    margin-top: 30px;
+}
+
+.services:first-child {
+    margin-top: 0;
+}
+
+.services:last-child {
+    padding-bottom: 30px;
+}
+
+.service {
+    background-color: #6D5383;
+    width: 620px;
+    height: 400px;
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border-radius: 15px;
+}
+
+.service-image {
+    width: 290px;
+    text-align: center;
+}
+
+.service-image img {
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+
+.service-image>a {
+    text-decoration: none;
+    color: #ffcc70;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    border: 2px solid #ffcc70;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.service-image>a:hover {
+    color: #fff;
+    border-color: #fff;
+}
+
+.service-text {
+    margin: 0;
+    padding: 0;
+}
+
+.service-text h2 {
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    margin: 0;
+    margin-top: 35px;
+
+}
+
+.service-text p {
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 18px;
+    text-align: left;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.main {
+    background-image: url(../images/services-fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin: 0;
+    padding-top: 50px;
+    padding-bottom: 80px;
 }   

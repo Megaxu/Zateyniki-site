@@ -36,6 +36,7 @@
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/seasonal.css">
+        <link rel="stylesheet" href="css/timer-to-ny.css">
     </head>
 
     <body>
@@ -46,7 +47,7 @@
             <div class="wrapper">
                 <div class="box">
                     <div class="center">
-                        <h1>Предложения сезона - Весна</h1>
+                        <h1>Предложения сезона - Осень-Зима</h1>
                     </div>
                     <div class="seasonal-services">
                         <div class="seasonal-service" id="disabled">
@@ -98,23 +99,47 @@
                                     способности решить любые задачи, не самостоятельно – так вместе с товарищами.</p>
                             </div>
                         </div>
-                        <div class="seasonal-service" id="disabled">
+                        <div class="seasonal-service">
                             <div class="seasonal-service-image">
                                 <img src="images/logo-new-year.png" alt="foto">
-                                <a href="">Подробнее</a>
+                                <a href="https://vk.com/zateyniki_spb">Подробнее</a>
                             </div>
                             <div class="seasonal-service-text">
-                                <h2>Новый год</h2>
-                                <p>Эффектное = эффективное. Это формула успешного корпоративного мероприятия!
-                                    В соответствии с заданным и утвержденным бюджетом организация любого праздника в
-                                    окружении коллег пройдет идеально! Начиная с разработки концепции и заканчивая контролем
-                                    в день самого корпоративного праздника.</p>
+                                    <h2>Новый год</h2>
+                                    <p>Эффектное = эффективное. Это формула успешного корпоративного мероприятия!
+                                        В соответствии с заданным и утвержденным бюджетом организация любого праздника в
+                                        окружении коллег пройдет идеально! Начиная с разработки концепции и заканчивая контролем
+                                        в день самого корпоративного праздника.</p>
+                                    <div class="timer">
+                                        <h1 class="countdown-title">Осталось:</h1>
+                                        <div id="deadline-message" class="deadline-message">
+                                            <p>С Новым годом!</p>
+                                        </div>
+                                        <div id="countdown" class="countdown">
+                                            <div class="countdown-number">
+                                                <span class="days countdown-time"></span>
+                                                <span class="countdown-text">Дней</span>
+                                            </div>
+                                            <div class="countdown-number">
+                                                <span class="hours countdown-time"></span>
+                                                <span class="countdown-text">Часов</span>
+                                            </div>
+                                            <div class="countdown-number">
+                                                <span class="minutes countdown-time"></span>
+                                                <span class="countdown-text">Минут</span>
+                                            </div>
+                                            <div class="countdown-number">
+                                                <span class="seconds countdown-time"></span>
+                                                <span class="countdown-text">Секунд</span>
+                                            </div>
+                                        </div>
+                                    </div>
                             </div>
                         </div>
-                        <div class="seasonal-service" id="disabled">
+                        <div class="seasonal-service">
                             <div class="seasonal-service-image">
                                 <img src="images/logo-ded-moroz.png" alt="foto">
-                                <a href="">Подробнее</a>
+                                <a href="https://vk.com/zateyniki_spb">Подробнее</a>
                             </div>
                             <div class="seasonal-service-text">
                                 <h2>Дед Мороз на дом</h2>
@@ -139,6 +164,8 @@
         </div>
 
         <?php include("blocks/footer.php"); ?>
+        
+        <script src="js/timer-to-ny.js"></script>
 
     </body>
 

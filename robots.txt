@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /css
+
+Disallow: /js
+
+Sitemap: http://zateyniki-spb.ru/sitemap.xml

@@ -1,24 +1,24 @@
-.banner {
-    background-image: url(../images/graduation-fon.jpg);
-}
-
-.package {
-    height: 600px;
-    font-size: 20px;
-}
-
-.box-info img {
-    margin-bottom: 20px;
-}
-
-.stars-icon {
-    display: flex;
-    justify-content: center;
-    list-style-type: none;
-    padding: 0;
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    right: 50%;
-    padding-bottom: 20px;
+.banner {
+    background-image: url(../images/graduation-fon.jpg);
+}
+
+.package {
+    height: 600px;
+    font-size: 20px;
+}
+
+.box-info img {
+    margin-bottom: 20px;
+}
+
+.stars-icon {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    right: 50%;
+    padding-bottom: 20px;
 }

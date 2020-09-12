@@ -1,260 +1,260 @@
-.banner {
-    background-image: url(../images/fon-main-page.png);
-}
-
-.box-title {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    position: relative;
-    text-align: center;
-    padding: 30px;
-}
-
-.box-title img {
-    margin: auto 0;
-}
-
-.title-text {
-    padding: 20px 0px 20px 20px;
-    font-family: sans-serif;
-    margin: auto 0;
-}
-
-.title-text h1 {
-    color: #2b2b2b;  
-    font-size: 75px;
-    font-weight: 700;
-    line-height: 0.2;
-}
-
-.title-text p {
-    color: #2b2b2b;
-    font-size: 40px;
-    font-weight: 100;
-    line-height: 0.1;
-}
-
-.box-about-us {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    position: relative;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-.box-about-us img {
-    border-radius: 15px;
-    margin: auto;
-    margin-bottom: 20px;
-}
-
-.box-about-us blockquote {
-    width: 600px;
-    border: 2px solid #6D5383;    
-    border-radius: 15px;
-    padding: 20px;
-    height: fit-content;
-    font-size: 20px;
-    font-family: sans-serif;
-    color: #6D5383;
-    margin: auto;
-}
-
-.box-stocks {
-    background-color: #6d5383;
-    margin-left: 20px;
-    margin-right: 20px;
-    border-radius: 15px;
-    padding: 20px 0 20px 0;
-}
-
-.stocks {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    position: relative;
-    text-align: center;
-}
-
-.stock {
-    background-color: #fff;
-    width: 350px;
-    height: 550px;
-    border-radius: 15px;
-    margin: 0 20px 0 20px;
-    position: relative;
-    margin: 0 auto;
-    margin-bottom: 50px;
-}
-
-.stock > h3 {
-    font-family: sans-serif;
-    font-weight: 700;
-    font-size: 30px;
-    position: absolute;
-    bottom: 0;
-    left: 10%;
-    right: 10%;
-    color: #6d5383;
-}
-
-.stock img {
-    width: 300px;
-    height: 300px;
-    margin: 20px;
-}
-
-#all-stocks {
-    width: 350px;
-    height: 100px;
-    margin: 0 auto;
-    text-align: center;
-}
-
-#all-stocks a {
-    text-decoration: none;
-    color: #6D5383;
-}
-
-#all-stocks a:hover {
-    color: #ffcc70;
-}
-
-.box-services {
-    margin-left: 20px;
-    margin-right: 20px;
-    padding: 20px 0 20px 0;
-}
-
-.services {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    position: relative;
-}
-
-.service {
-    background-color: #6D5383;
-    border-radius: 15px;
-    text-align: center;
-    margin: 0 20px 0 20px;
-    margin: 0 auto;
-    margin-bottom: 50px;
-}
-
-.service img {
-    width: 330px;
-    height: 330px;
-    padding: 20px;
-}
-
-.service > h3 {
-    font-family: sans-serif;
-    font-size: 30px;
-}
-
-.service > h3 > a {
-    text-decoration: none;
-    color: #fff;
-    padding: 20px 70px 20px 70px;
-}
-
-.service > h3 > a:hover {
-    color: #ffcc70;
-}
-
-#another-services {
-    padding: 10px 40px 10px 40px;
-    width: 290px;
-    margin: 0 auto;
-}
-
-@media screen and (max-device-width: 480px) {
-
-    .box-about-us img {
-        width: 80vw;
-        height: auto;
-    }
-
-    .box-about-us blockquote{
-        width: 80vw;
-        padding: 0;
-        margin-top: 20px;
-    }
-
-    .box-about-us h2 {
-        font-size: 50px;
-        text-align: center;
-        margin: 0;
-        margin-top: 20px;     
-    }
-
-    .box-about-us p {
-        font-size: 35px;
-        text-align: center;
-        margin: 10px;
-    }
-
-    .box-stocks h2 {
-        font-size: 75px;
-    }
-
-    .stock {
-        width: 80vw;
-    }
-
-    .stock img {
-        width: 40vw;
-        height: auto;
-        margin: 20px;
-        padding: 0;
-    }
-    .stock h3 {
-        font-size: 50px;
-        margin: 20px;
-    }
-
-    #all-stocks {
-        margin: auto auto;
-        padding: auto;
-        width: 40vw;
-    }
-
-    #all-stocks a {
-        padding: 0;
-        margin: 0;
-    }
-
-    .box-services h2 {
-        font-size: 75px;
-    }
-
-    .service {
-        width: 80vw;
-    }
-
-    .service img {
-        width: 40vw;
-        height: auto;
-        margin: 20px;
-        padding: 0;
-    }
-    .service h3 {
-        font-size: 50px;
-        margin: 20px;
-        text-align: center;
-    }
-
-    #another-services {
-        margin: auto;
-        width: 40vw;
-    }
-
-    #another-services a {
-        padding: 0;
-        margin: 0;
-    }
-
+.banner {
+    background-image: url(../images/fon-main-page.png);
+}
+
+.box-title {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+    text-align: center;
+    padding: 30px;
+}
+
+.box-title img {
+    margin: auto 0;
+}
+
+.title-text {
+    padding: 20px 0px 20px 20px;
+    font-family: sans-serif;
+    margin: auto 0;
+}
+
+.title-text h1 {
+    color: #2b2b2b;  
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 0.2;
+}
+
+.title-text p {
+    color: #2b2b2b;
+    font-size: 40px;
+    font-weight: 100;
+    line-height: 0.1;
+}
+
+.box-about-us {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.box-about-us img {
+    border-radius: 15px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.box-about-us blockquote {
+    width: 600px;
+    border: 2px solid #6D5383;    
+    border-radius: 15px;
+    padding: 20px;
+    height: fit-content;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #6D5383;
+    margin: auto;
+}
+
+.box-stocks {
+    background-color: #6d5383;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+    padding: 20px 0 20px 0;
+}
+
+.stocks {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: relative;
+    text-align: center;
+}
+
+.stock {
+    background-color: #fff;
+    width: 350px;
+    height: 550px;
+    border-radius: 15px;
+    margin: 0 20px 0 20px;
+    position: relative;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.stock > h3 {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    right: 10%;
+    color: #6d5383;
+}
+
+.stock img {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+
+#all-stocks {
+    width: 350px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#all-stocks a {
+    text-decoration: none;
+    color: #6D5383;
+}
+
+#all-stocks a:hover {
+    color: #ffcc70;
+}
+
+.box-services {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px 0 20px 0;
+}
+
+.services {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.service {
+    background-color: #6D5383;
+    border-radius: 15px;
+    text-align: center;
+    margin: 0 20px 0 20px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.service img {
+    width: 330px;
+    height: 330px;
+    padding: 20px;
+}
+
+.service > h3 {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.service > h3 > a {
+    text-decoration: none;
+    color: #fff;
+    padding: 20px 70px 20px 70px;
+}
+
+.service > h3 > a:hover {
+    color: #ffcc70;
+}
+
+#another-services {
+    padding: 10px 40px 10px 40px;
+    width: 290px;
+    margin: 0 auto;
+}
+
+@media screen and (max-device-width: 480px) {
+
+    .box-about-us img {
+        width: 80vw;
+        height: auto;
+    }
+
+    .box-about-us blockquote{
+        width: 80vw;
+        padding: 0;
+        margin-top: 20px;
+    }
+
+    .box-about-us h2 {
+        font-size: 50px;
+        text-align: center;
+        margin: 0;
+        margin-top: 20px;     
+    }
+
+    .box-about-us p {
+        font-size: 35px;
+        text-align: center;
+        margin: 10px;
+    }
+
+    .box-stocks h2 {
+        font-size: 75px;
+    }
+
+    .stock {
+        width: 80vw;
+    }
+
+    .stock img {
+        width: 40vw;
+        height: auto;
+        margin: 20px;
+        padding: 0;
+    }
+    .stock h3 {
+        font-size: 50px;
+        margin: 20px;
+    }
+
+    #all-stocks {
+        margin: auto auto;
+        padding: auto;
+        width: 40vw;
+    }
+
+    #all-stocks a {
+        padding: 0;
+        margin: 0;
+    }
+
+    .box-services h2 {
+        font-size: 75px;
+    }
+
+    .service {
+        width: 80vw;
+    }
+
+    .service img {
+        width: 40vw;
+        height: auto;
+        margin: 20px;
+        padding: 0;
+    }
+    .service h3 {
+        font-size: 50px;
+        margin: 20px;
+        text-align: center;
+    }
+
+    #another-services {
+        margin: auto;
+        width: 40vw;
+    }
+
+    #another-services a {
+        padding: 0;
+        margin: 0;
+    }
+
 } 

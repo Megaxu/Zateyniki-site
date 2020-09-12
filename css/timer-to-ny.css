@@ -1,5 +1,5 @@
 .timer {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-family: sans-serif;
 }
 
@@ -7,7 +7,7 @@
     color: #fff;
     font-weight: 100;
     font-size: 40px;
-    margin: 0px 0px 20px;
+    margin: 0px 0px 10px;
     padding: 0;
 }
 
@@ -17,7 +17,7 @@
     display: inline-block;
     font-weight: 700;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .countdown-number {
@@ -28,7 +28,7 @@
 }
 
 .countdown-time {
-    padding: 15px;
+    padding: 10px;
     border-radius: 3px;
     background: #6d5383;
     display: inline-block;
@@ -42,7 +42,7 @@
 
 .deadline-message {
     display: none;
-    font-size: 24px;
+    font-size: 14px;
     font-style: italic;
 }
 
