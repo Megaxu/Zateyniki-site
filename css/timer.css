@@ -1,4 +1,4 @@
-.timer {
+.timer{
     margin-bottom: 20px;
     font-family: sans-serif;
 }
@@ -7,7 +7,7 @@
     color: #fff;
     font-weight: 100;
     font-size: 40px;
-    margin: 0px 0px 20px;
+    margin: 0px 0px 20px ;
     padding: 0;
 }
 
@@ -30,7 +30,7 @@
 .countdown-time {
     padding: 15px;
     border-radius: 3px;
-    background: #6d5383;
+    background: #6d5383 ;
     display: inline-block;
 }
 

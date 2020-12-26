@@ -8,7 +8,7 @@
         <meta property="og:title" content="Сезонное">
         <meta property="og:site_name" content="Затейники-СПБ оргнанизация праздников в СПБ">
         <meta property="og:url" content="seasonal">
-        <meta property="og:image" content="images/seasonal-vesna-fon.jpg">
+        <meta property="og:image" content="images/seasonal-winter-fon.jpg">
 
         <!-- Yandex.Metrika counter -->
         <script type="text/javascript">
@@ -139,7 +139,7 @@
                         <div class="seasonal-service">
                             <div class="seasonal-service-image">
                                 <img src="images/logo-ded-moroz.png" alt="foto">
-                                <a href="https://vk.com/zateyniki_spb">Подробнее</a>
+                                <a href="ded-moroz">Подробнее</a>
                             </div>
                             <div class="seasonal-service-text">
                                 <h2>Дед Мороз на дом</h2>
