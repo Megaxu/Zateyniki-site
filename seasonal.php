@@ -47,10 +47,10 @@
             <div class="wrapper">
                 <div class="box">
                     <div class="center">
-                        <h1>Предложения сезона - Осень-Зима</h1>
+                        <h1>Предложения сезона Зима-Весна</h1>
                     </div>
                     <div class="seasonal-services">
-                        <div class="seasonal-service" id="disabled">
+                        <div class="seasonal-service">
                             <div class="seasonal-service-image">
                                 <img src="images/logo-defender's-day.png" alt="foto">
                                 <a href="defenders-day.php">Подробнее</a>
@@ -62,7 +62,7 @@
                                     программу для именинника.</p>
                             </div>
                         </div>
-                        <div class="seasonal-service" id="disabled">
+                        <div class="seasonal-service">
                             <div class="seasonal-service-image">
                                 <img src="images/logo-woman's-day.png" alt="foto">
                                 <a href="womans-day.php">Подробнее</a>
@@ -73,10 +73,10 @@
                                     нами, сохранится в воспоминаниях ещё очень и очень долго!</p>
                             </div>
                         </div>
-                        <div class="seasonal-service" id="disabled">
+                        <div class="seasonal-service">
                             <div class="seasonal-service-image">
                                 <img src="images/logo-pancake-day.png" alt="foto">
-                                <a href="">Подробнее</a>
+                                <a href="https://vk.com/zateyniki_spb">Подробнее</a>
                             </div>
                             <div class="seasonal-service-text">
                                 <h2>Масленица</h2>
@@ -99,7 +99,7 @@
                                     способности решить любые задачи, не самостоятельно – так вместе с товарищами.</p>
                             </div>
                         </div>
-                        <div class="seasonal-service">
+                        <div class="seasonal-service" id="disabled">
                             <div class="seasonal-service-image">
                                 <img src="images/logo-new-year.png" alt="foto">
                                 <a href="https://vk.com/zateyniki_spb">Подробнее</a>
@@ -136,7 +136,7 @@
                                     </div>
                             </div>
                         </div>
-                        <div class="seasonal-service">
+                        <div class="seasonal-service" id="disabled">
                             <div class="seasonal-service-image">
                                 <img src="images/logo-ded-moroz.png" alt="foto">
                                 <a href="ded-moroz">Подробнее</a>
